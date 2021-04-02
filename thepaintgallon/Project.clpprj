@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\Project.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/E:/CSIS1280/NavneetKaurChahal/Assignment2/NavneetKaurChahal/Project]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/E:/CSIS1280/NavneetKaurChahal/Assignment2/NavneetKaurChahal/Project]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_home.html"/>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_styles.css"/>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_reset.css"/>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_grids.css"/>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_products.html"/>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_services.html"/>
+  <file name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_professionals.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1603125614048" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_styles.css"/>
+  <file crc="1603015341357" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_services.html"/>
+  <file crc="1602929556033" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_reset.css"/>
+  <file crc="1603125152989" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_professionals.html"/>
+  <file crc="1603022891923" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_products.html"/>
+  <file crc="1603026308227" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_home.html"/>
+  <file crc="1603125480856" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_grids.css"/>
+  <file crc="1603017773689" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_forms.css"/>
+  <file crc="1603017362943" name="E:\CSIS1280\NavneetKaurChahal\Assignment2\NavneetKaurChahal\Project\pg_contact.html"/>
+ </filescache>
+</project>

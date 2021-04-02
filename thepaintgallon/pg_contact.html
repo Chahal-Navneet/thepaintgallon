@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>The Paint Gallon</title>
+		<link href="pg_reset.css" rel="stylesheet" />
+		<link href="pg_grids.css" rel="stylesheet" />
+		<link href="pg_styles.css" rel="stylesheet" />
+		<link href="pg_forms.css" rel="stylesheet" />
+		
+		
+		<script src="pg_formsubmit.js"></script>
+		<script type="text/javascript">
+		function confirmInput()
+			{
+				alert(" Your Inquiry has been submitted successfully !");
+			}
+		</script>
+	</head>
+	<body>
+		<header>
+	      <img src="pg_header.jpg" alt="The Paint Gallon" />
+	     <nav class="horizontalNavigation">
+         <ul>
+            <li><a href="pg_home.html">HOME</a></li>
+            <li><a href="pg_products.html">PRODUCTS</a></li>
+            <li><a href="pg_services.html">SERVICES</a></li>
+            <li><a href="pg_professionals.html">PROFESSIONALS</a></li>
+            <li><a href="#">CONTACT</a></li>            
+         </ul>
+         </nav>
+	   </header>
+	    <article id="pg_contact">
+	   <div class="row" >
+	   	<div class="col-1-2">
+	   	<div class="in-col">
+ 		<form id="contact" action="http://www.example.com/thepaintgallon/contact" method="post" onsubmit="confirmInput()">
+		
+    	<fieldset id="custInfo" >
+    		<legend>CONTACT US</legend>
+    			   		
+    		
+    		<div class="formRow">
+    		<input name="custFName" id="fname" type="text" placeholder="First Name" />
+    		</div>
+    		
+    		<div class="formRow">
+ 
+    		<input name="custLName" id="lname" type="text" placeholder="Last Name"/>
+    		</div>
+
+    		
+    		<div class="formRow">
+    		<input name="custEmail" id="mail" type="email" placeholder="E-mail*"required/>
+    		</div>
+    		
+    		 <div class="formRow">
+    	   	<select name="custInquiry" id="inquiry">
+    	   		<option value="type">Type of Inquiry</option>
+    	   		<option value="product" >Product Information</option>
+    	   		<option value="quote">Quote Request</option>
+    	   		<option value="contact">Contact Request</option>
+    	   	</select>
+    	   </div>
+    	    <textarea name="custMsg" id="msgBox" placeholder="Message"></textarea>
+    	     </fieldset>
+    	    <div id="buttons">
+    		<input type="submit" value="SUBMIT" />
+    	</div>
+    	</form>
+
+	   	</div>
+	   </div>
+</div>
+	   
+
+	   </article>
+	  
+	  
+	   <footer>
+	    <section id="contactInfo">
+	      THE PAINT GALLON KING GEORGE BLVD. SURREY BRITISH COLUMBIA
+	      </section>
+	   </footer>
+	</body>
+</html>

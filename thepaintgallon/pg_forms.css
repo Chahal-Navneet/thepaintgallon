@@ -1,0 +1,79 @@
+
+article#pg_contact > div.row > div.col-1-2 {
+	width: 100%;
+	background-color: white;
+	margin-top: 25px;
+
+}
+
+
+
+article#pg_contact > div.row > div.col-1-2 > div.in-col {
+	display: flex;
+	flex-flow: row wrap;
+	margin: 0px;
+	line-height: 20px;
+	padding: 0px;
+	float: left;
+	width: 95%;
+
+}
+
+/* Form Layout Styles */
+div.formRow {
+	display: flex;
+	flex-flow: row wrap;
+	margin: 7px 0px;
+}
+
+div.formRow > * {
+	flex: 1 1 150px;
+}
+
+form#contact {
+	display: block;
+	flex-flow: row wrap;
+	width: 100%;
+}
+
+form#contact > fieldset {
+
+	font-size: 0.85em;
+	padding: 10px;
+	margin: 20px;
+	flex: 1 1 300px;
+}
+/* Legend Styles */
+
+legend {
+	color: rgb(51, 51, 51);
+	font-family: Savoy,georgia,serif;
+	font-size: 32px;
+	padding: 5px;
+}
+
+/* Text Area Styles */
+textarea {
+	margin-top: 10px;
+	height: 100px;
+	width: 100%;
+}
+
+
+
+/* Form Button Styles */
+div#buttons {
+	width: 100%;
+	text-align: center;
+	
+}
+
+input[type='submit']{
+	font-size: 0.9em;
+	padding: 5px;
+	margin:  15px;
+	color: rgb(255, 228, 207);
+	background-color: rgb(34, 145, 255);
+}
+/* Validation Styles */
+
